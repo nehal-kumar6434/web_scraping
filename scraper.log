@@ -1,0 +1,25 @@
+2026-06-26 02:12:20,930 - ERROR - Page 2 Error: could not convert string to float: 'Â12.84'
+2026-06-26 02:12:20,950 - ERROR - Page 4 Error: could not convert string to float: 'Â38.16'
+2026-06-26 02:12:20,973 - ERROR - Page 3 Error: could not convert string to float: 'Â57.31'
+2026-06-26 02:12:20,993 - ERROR - Page 5 Error: could not convert string to float: 'Â13.61'
+2026-06-26 02:12:21,850 - ERROR - Page 1 Error: could not convert string to float: 'Â51.77'
+2026-06-26 02:18:05,173 - INFO - Page 2 scraped successfully.
+2026-06-26 02:18:05,209 - INFO - Page 5 scraped successfully.
+2026-06-26 02:18:05,214 - INFO - Page 4 scraped successfully.
+2026-06-26 02:18:05,258 - INFO - Page 3 scraped successfully.
+2026-06-26 02:18:05,252 - INFO - Page 1 scraped successfully.
+2026-06-26 02:18:59,789 - INFO - Page 5 scraped successfully.
+2026-06-26 02:18:59,809 - INFO - Page 4 scraped successfully.
+2026-06-26 02:18:59,859 - INFO - Page 1 scraped successfully.
+2026-06-26 02:19:00,729 - INFO - Page 3 scraped successfully.
+2026-06-26 02:19:02,335 - INFO - Page 2 scraped successfully.
+2026-06-26 02:21:29,301 - INFO - Page 1 scraped successfully.
+2026-06-26 02:21:29,348 - INFO - Page 3 scraped successfully.
+2026-06-26 02:21:29,369 - INFO - Page 5 scraped successfully.
+2026-06-26 02:21:30,203 - INFO - Page 2 scraped successfully.
+2026-06-26 02:21:31,828 - INFO - Page 4 scraped successfully.
+2026-06-26 02:26:41,898 - INFO - Page 3 scraped successfully.
+2026-06-26 02:26:41,929 - INFO - Page 4 scraped successfully.
+2026-06-26 02:26:42,918 - INFO - Page 1 scraped successfully.
+2026-06-26 02:26:42,939 - INFO - Page 5 scraped successfully.
+2026-06-26 02:26:44,468 - INFO - Page 2 scraped successfully.
